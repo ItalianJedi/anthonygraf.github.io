@@ -213,6 +213,11 @@ header.masthead h2 {
   border-style: ridge;
 }
 
+.img-fluid {
+  width: 300px;
+  height: 200px;
+}
+
 /*Image of Plants the Pupper*/
 .plants {
   width: 200px;
@@ -422,3 +427,4 @@ a:focus, a:hover, a:active {
   background-color: #1a252f;
   border-color: #1a252f;
 }
+
