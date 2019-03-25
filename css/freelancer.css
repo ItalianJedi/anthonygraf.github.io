@@ -8,6 +8,7 @@ body {
   font-family: 'EB Garamond', serif;
 }
 
+
 h1,
 h2,
 h3,
@@ -207,11 +208,17 @@ header.masthead h2 {
 
 /*Portfolio Image*/
 .crow {
-  width: 400px;
+  width: 375px;
   height: 400px;
   border-radius: 50%;
   border-style: ridge;
 }
+/*.crow {
+  width: 50%;
+  height: auto%;
+  border-radius: 50%;
+  border-style: ridge;
+}*/
 
 .img-fluid {
   width: 300px;
@@ -219,12 +226,19 @@ header.masthead h2 {
 }
 
 /*Image of Plants the Pupper*/
-.plants {
+/*.plants {
   width: 200px;
   height: 200px;
   border-radius: 30%;
   border-style: ridge;
+}*/
+.plants {
+  width: 70%;
+  height: auto;
+  border-radius: 50%;
+  border-style: ridge;
 }
+
 
 /*line*/
 .line {
@@ -237,9 +251,15 @@ header.masthead h2 {
 }
 
 /* Technologies */
-.technologies {
+/*.technologies {
   width: 100px;
   height: 100px;
+}*/
+.technologies {
+  width: 70%;
+  height: auto;
+  border-radius: 50%;
+  border-style: ridge;
 }
 
 .portfolio {
